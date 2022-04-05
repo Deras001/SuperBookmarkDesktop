@@ -1,7 +1,7 @@
 {
-  "name": "super-bookmark-desktop",
-  "version": "1.4.1",
-  "description": "A bookmark manager that acts like your computer desktop",
+  "name": "tech.tab",
+  "version": "1.4.2",
+  "description": "A bookmark manager for researchers/scientists",
   "main": "build.js",
   "dependencies": {},
   "devDependencies": {
@@ -16,11 +16,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kylepaulsen/SuperBookmarkDesktop.git"
+    "url": "git+https://github.com/Deras001/SuperBookmarkDesktop.git"
   },
   "keywords": [
-    "super",
-    "bookmark",
+    "tech",
+    ".tab",
     "desktop",
     "chrome",
     "extension",
@@ -28,10 +28,10 @@
     "tab",
     "page"
   ],
-  "author": "Kyle Paulsen <kyle.a.paulsen@gmail.com> (http://www.kylepaulsen.com/)",
+  "author": "Deras001 <petercyberpunk001@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kylepaulsen/SuperBookmarkDesktop/issues"
+    "url": "https://github.com/Deras001/SuperBookmarkDesktop/issues"
   },
-  "homepage": "https://github.com/kylepaulsen/SuperBookmarkDesktop#readme"
+  "homepage": "https://github.com/Deras001/SuperBookmarkDesktop#readme"
 }
