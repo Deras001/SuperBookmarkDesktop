@@ -1,2 +1,3 @@
 /* global chrome */
-chrome.tabs.create({url: 'chrome://newtab#options'});
+chrome.tabs.create({url: 'chrome://tech.tab#options'});
+
