@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "version": "1.4.1",
-    "name": "Super Bookmark Desktop",
+    "name": "tech.tab",
     "icons": {
         "16": "icons/icon16.png",
         "48": "icons/icon48.png",
@@ -15,7 +15,7 @@
         "chrome://favicon/"
     ],
     "chrome_url_overrides": {
-        "newtab": "index.html"
+        "tech.tab": "index.html"
     },
     "minimum_chrome_version": "59"
 }
